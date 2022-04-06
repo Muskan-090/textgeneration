@@ -1,2 +1,2 @@
 # textgeneration-Using-Django
-text folder contain gnr.py file .  This file contain the code of textgeneration . 
+It takes the seed words and predict the next 100 word
